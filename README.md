@@ -1,9 +1,5 @@
 # Algorithms-Solutions
 
-Solution of Algorithms.
-
-## Sorting Algorithms 
-
 SL No. | Title
 --- | ---
 1 | [Bubble Sort](https://github.com/aratheunseen/algorithms-solutions/blob/main/Sorting%20Algorithms/Bubble%20Sort.cpp)
