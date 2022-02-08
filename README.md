@@ -1,5 +1,7 @@
 # Algorithms-Solutions
 
+## Sorting Algorithm
+
 SL No. | Title
 --- | ---
 1 | [Bubble Sort](https://github.com/aratheunseen/algorithms-solutions/blob/main/Sorting%20Algorithms/Bubble%20Sort.cpp)
@@ -13,7 +15,7 @@ SL No. | Title
 3 | [Celebration Party Problem Solution](https://github.com/aratheunseen/algorithms-solutions/blob/main/Greedy%20Algorithms/Celebration%20Party%20Problem%20Solution.cpp)
 4 | [Grouping Children Problem Solution](https://github.com/aratheunseen/algorithms-solutions/blob/main/Greedy%20Algorithms/Grouping%20Children%20Problem%20Solution.cpp)
 
-## Divide and Conquer Algorithms
+## Divide and Conquer Algorithm
 
 SL No. | Title
 --- | ---
