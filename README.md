@@ -1,5 +1,7 @@
 # Algorithms-Solutions
 
+Solution of Algorithms.
+
 ## Sorting Algorithms 
 
 SL No. | Title
